@@ -1,0 +1,47 @@
+[
+    {
+      "gpu": "RTX-3090",
+      "price_per_hour_cny": 0.82,
+      "memory_gb": 24
+    },
+    {
+      "gpu": "RTX-4090",
+      "price_per_hour_cny": 1.00,
+      "memory_gb": 24
+    },
+    {
+      "gpu": "RTX-4090D",
+      "price_per_hour_cny": 1.04,
+      "memory_gb": 24
+    },
+    {
+      "gpu": "A100-PCIE",
+      "price_per_hour_cny": 3.52,
+      "memory_gb": 40
+    },
+    {
+      "gpu": "A100-SXM",
+      "price_per_hour_cny": 4.35,
+      "memory_gb": 80
+    },
+    {
+      "gpu": "H800-SXM",
+      "price_per_hour_cny": 5.44,
+      "memory_gb": 80
+    },
+    {
+      "gpu": "H800-PCIE",
+      "price_per_hour_cny": 6.08,
+      "memory_gb": 80
+    },
+    {
+      "gpu": "H100-SXM",
+      "price_per_hour_cny": 8.61,
+      "memory_gb": 80
+    },
+    {
+      "gpu": "H200-PCIE",
+      "price_per_hour_cny": 11.27,
+      "memory_gb": 141
+    }
+  ]
