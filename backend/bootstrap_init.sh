@@ -40,7 +40,7 @@ LUCHEN_REGION_ID=
 
 # PPIO credentials
 PPIO_API_KEY=
-PPIO_BASE_URL=https://api.ppinfra.com/v3
+PPIO_BASE_URL=https://api.ppio.com/gpu-instance/openapi/v1
 
 # Callback URL (use ngrok URL during development)
 CALLBACK_BASE_URL=http://localhost:9898

@@ -28,7 +28,7 @@ class Scheduler:
     def __init__(self) -> None:
         self.adapters: list[CloudAdapter] = [
             LuchenAdapter(),
-            # PPIOAdapter(),   # uncomment after registration
+            PPIOAdapter(),   # uncomment after registration
             # ManualAdapter(),
         ]
         self._adapter_map: dict[str, CloudAdapter] = {
