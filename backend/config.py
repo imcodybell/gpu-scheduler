@@ -54,7 +54,7 @@ LUCHEN_GPU_TYPE_NORMALIZE: dict[str, str] = {
 }
 
 # ---- PPIO ----
-PPIO_BASE_URL = os.getenv("PPIO_BASE_URL", "https://api.ppinfra.com/v3")
+PPIO_BASE_URL = os.getenv("PPIO_BASE_URL", "https://api.ppio.com/gpu-instance/openapi/v1")
 PPIO_API_KEY = os.getenv("PPIO_API_KEY", "")
 
 # ---- Scheduler ----
